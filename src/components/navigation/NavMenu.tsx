@@ -1,7 +1,7 @@
 import { motion } from 'framer-motion';
 import { useTranslation } from 'react-i18next';
 import { MenuItem } from './MenuItem';
-import { menuItems } from './menuItems';
+import { menuItems } from './MenuItems';
 
 interface NavMenuProps {
   activeItem: string;
