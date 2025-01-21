@@ -1,7 +1,7 @@
 import { motion } from 'framer-motion';
 import { Menu, X } from 'lucide-react';
 import { useTranslation } from 'react-i18next';
-import { menuItems } from './menuItems';
+import { menuItems } from './MenuItems';
 
 interface MobileMenuProps {
   isOpen: boolean;
