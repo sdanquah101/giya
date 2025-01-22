@@ -5,7 +5,7 @@ export const menuItems = [
   'speakers',
   'registration',
   'venue',
-  'FAQ',
+  'faq',
   'contact',
 ] as const;
 

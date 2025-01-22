@@ -12,19 +12,30 @@ export const MenuItem = ({ label, href, isActive, onClick }: MenuItemProps) => {
     <motion.a
       href={href}
       onClick={(e) => {
-        e.preventDefault();
-        onClick?.();
+        if (href.startsWith("#")) {
+          // Prevent default navigation for anchor links
+          e.preventDefault();
+          onClick?.();
+          // Smooth scroll to the target section
+          const target = document.querySelector(href);
+          target?.scrollIntoView({ behavior: "smooth" });
+        } else {
+          // Allow default navigation for non-anchor links
+          onClick?.();
+        }
       }}
       className="relative px-4 py-2 mx-1"
       whileHover={{ scale: 1.05 }}
       whileTap={{ scale: 0.95 }}
     >
-      <span className={`relative z-10 text-sm font-medium ${
-        isActive ? 'text-white' : 'text-primary'
-      }`}>
+      <span
+        className={`relative z-10 text-sm font-medium ${
+          isActive ? 'text-white' : 'text-primary'
+        }`}
+      >
         {label}
       </span>
-      
+
       {isActive && (
         <motion.div
           layoutId="active-pill"
@@ -32,11 +43,11 @@ export const MenuItem = ({ label, href, isActive, onClick }: MenuItemProps) => {
           transition={{
             type: "spring",
             stiffness: 380,
-            damping: 30
+            damping: 30,
           }}
         />
       )}
-      
+
       <motion.div
         initial={false}
         animate={{ opacity: isActive ? 1 : 0 }}

@@ -114,7 +114,7 @@ Her dedication to this field led her to participate in the ETH Robotics Student 
     image: 'https://media.licdn.com/dms/image/v2/C4E03AQHynSTRa-6GzA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1654017051532?e=2147483647&v=beta&t=3FxEEfILKNFMiXU3QxTMcK3An3NSfS_D_P7vb4jKqiU',
     bio: 'Esther Dadzie, once an average student, is now being transferred from an MPhil student to a PhD fellow in Biomedical Engineering at the University of Ghana. \n\n'+
     'During her undergraduate studies as a Medical Labouratory Science student in the University of Cape Coast, she was the president of both New Breed and Phanerosis Prayer Network. Balancing these roles with her studies, she excelled both academically and earned a Teaching Assistant positing during her national service. During her MPhil, Esther worked as a lab scientist at night, full time student during the day, and a home tutor on her off days to fund her studies. Despite this rigorous schedule, she produced a good thesis which earned her the opportunity for her MPhil to be transferred to a PhD. \n\n' +
-    'Esther sees her her self as a problem solver and is committed to contributing to the development of Ghana, particularly in the educational and healthcare sectors, whilst inspiring others to follow suit.',
+    'Esther sees her self as a problem solver and is committed to contributing to the development of Ghana, particularly in the educational and healthcare sectors, whilst inspiring others to follow suit.',
    
 
     social: {
@@ -161,7 +161,7 @@ export const Speakers = () => {
             Distinguished Speakers
           </h2>
           <p className="text-light text-lg">
-            Learn from experts in academia, technology, and faith
+            Learn from experts from different professions, academia and faith
           </p>
         </motion.div>
 

@@ -14,6 +14,7 @@ export const Navigation = () => {
     'speakers',
     'registration',
     'venue',
+    'FAQ',
     'contact',
     'gallery'
   ];
