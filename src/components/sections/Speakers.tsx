@@ -34,7 +34,7 @@ His notable works include:
     name: 'Eric Obeng Kwakye',
     role: 'Branch Operations Manager',
     institution: 'Consolidated Bank Ghana',
-    image: 'https://scontent.facc5-1.fna.fbcdn.net/v/t39.30808-1/273447669_10161716671304746_1292520107985123134_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=106&ccb=1-7&_nc_sid=e99d92&_nc_ohc=GS3H_kL3bA4Q7kNvgEUQTS3&_nc_zt=24&_nc_ht=scontent.facc5-1.fna&_nc_gid=Akwv0IDbq1Zofx2GFacmrpW&oh=00_AYCtm9DnQIVTppKt_YcJ_j6wvmSDBX_N_KvwEhQvuXBDCg&oe=678E2BC5',
+    image: 'https://drive.google.com/thumbnail?id=19UiZZbqTZOZrqQqbI_OjsS9KrzjKG6fu&sz=w1000',
     bio: `Eric Obeng Kwakye is a seasoned professional with over 10 years expertise in operations management, leadership, and consulting. Currently, he serves as the Branch Operations Mnaager at CBG, Co-founder and Executive Director of PHANET, Lead Consultant at T.R.I.P. Africa, and Lead Ideator for GIYA+C (God is Interested In your Academics & Career).\n\n' +
     'With a proven track record of success, Eric Obeng-Kwakye is dedicated to driving growth, innovation, and positive impact across various industries.`,
     social: {
