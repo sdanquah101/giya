@@ -35,8 +35,8 @@ His notable works include:
     role: 'Branch Operations Manager',
     institution: 'Consolidated Bank Ghana',
     image: 'https://drive.google.com/thumbnail?id=19UiZZbqTZOZrqQqbI_OjsS9KrzjKG6fu&sz=w1000',
-    bio: `Eric Obeng Kwakye is a seasoned professional with over 10 years expertise in operations management, leadership, and consulting. Currently, he serves as the Branch Operations Mnaager at CBG, Co-founder and Executive Director of PHANET, Lead Consultant at T.R.I.P. Africa, and Lead Ideator for GIYA+C (God is Interested In your Academics & Career).\n\n' +
-    'With a proven track record of success, Eric Obeng-Kwakye is dedicated to driving growth, innovation, and positive impact across various industries.`,
+    bio: `Eric Obeng Kwakye is a seasoned professional with over 10 years of expertise in operations management, leadership, and consulting. Currently, he serves as the Branch Operations Manager at CBG, Co-founder and Executive Director of PHANET; Lead Consultant at T.R.I.P. Africa; and Lead Ideator for GIYA+C (God is Interested In your Academics & Career).\n\n' 
+    'With a proven track record of success, Eric Obeng Kwakye is dedicated to driving growth, innovation, and positive impact across various industries.`,
     social: {
       linkedin: '#',
       twitter: '#',
@@ -85,8 +85,8 @@ Her dedication to this field led her to participate in the ETH Robotics Student 
     role: 'Machine Learning Engineer',
     institution: 'Hubtel Ltd.',
     image: 'https://drive.google.com/thumbnail?id=1VaeVDIBoWsyofLkocJY6n6x9ZM3PTW9r&sz=w1000',
-    bio: 'Ruthie is a Machine Learning Engineer at Hubtel Ltd., a leading fintech company in Africa. At Hubtel, she works to build and deploy AI/ML solutions to business solutions across different operational domains. She has also worked as a Data Intelligence Consultant for for the Office of the Vice President of Ghana, as well as other startups in Africa.\n\n' +
-      'She holds a Master\'s degree in Chemical Engineering from KNUST, graduating as the best female student in her graduating class. Her research in Chemical Engineering explored the use of synthetic data and neural networks in process modelling-work that has been published in the journal of Industrial Biotechnology.\n\n' +
+    bio: 'Ruthie is a Machine Learning Engineer at Hubtel Ltd., a leading fintech company in Africa. At Hubtel, she works to build and deploy AI/ML solutions to business challenges across different operational domains. She has also worked as a Data Intelligence Consultant for for the Office of the Vice President of Ghana, as well as other startups in Africa.\n\n' +
+      'She holds a Master\'s degree in Chemical Engineering from KNUST, graduating as the best female student in her graduating class. Her research in Chemical Engineering explored the use of synthetic data and neural networks in process modelling, work that has been published in the journal of Industrial Biotechnology.\n\n' +
       'She is the lead of the PHANET Data Intelligence Unit, and the CEO of Gurlz App, an app for all things women.',
     social: {
       linkedin: '#',
@@ -99,8 +99,8 @@ Her dedication to this field led her to participate in the ETH Robotics Student 
     role: 'Founder and CEO',
     institution: 'Ashanti Technologies',
     image: 'https://media.licdn.com/dms/image/v2/D4E03AQFsFlp_qVhdzA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1666792189216?e=1742428800&v=beta&t=w9sfz6amjVHbElAbQ7JTHCxAQT72aUsCQxUzcD7jVRk',
-    bio: 'Frederick Obeng Nyarko is a Computer and Software Engineer with over 6 yers experience building innovative solutions for companies and organizations worldwide. He holds a Bachelor of Science in Computer Engineering from KNUST, where he also served as a Research and Teaching Assistant.He has a publication in the Computer Engineering and Applications Journal on Intelligent Miniature Circuit Breakers \n\n' +
-    'Beyond his professional accomplishmennts, Frederick brings a unique perspective on integrating faith and academic excellence, making him an inspiring speaker for students and professionals alike. His hourney from Mfantsipim School to becoming a global technology consultant exemplifies how spiritual guidance and academic pursuit can work hand in hand to achieve extraordinary results.',
+    bio: 'Frederick Obeng Nyarko is a Computer and Software Engineer with over 6 yers experience building innovative solutions for companies and organizations worldwide. He holds a Bachelor of Science in Computer Engineering from KNUST, where he also served as a Research and Teaching Assistant.He has published work in the Computer Engineering and Applications Journal on Intelligent Miniature Circuit Breakers \n\n' +
+    'Beyond his professional accomplishments, Frederick brings a unique perspective on integrating faith and academic excellence, making him an inspiring mentor and speaker for students and professionals alike. His journey from Mfantsipim School to becoming a global technology consultant exemplifies how spiritual guidance and academic pursuit can work hand in hand to achieve extraordinary results.',
     social: {
       linkedin: '#',
       twitter: '#',
@@ -128,13 +128,13 @@ Her dedication to this field led her to participate in the ETH Robotics Student 
     role: 'Research and Teaching Assistant',
     institution: 'Department of Chemical Engineering, KNUST',
     image: 'https://drive.google.com/thumbnail?id=1FvV_09UjWxQ1o0NGJ_FNTgyIhLcyp9dz&sz=w1000',
-    bio: 'Nana Kwadwo Otieku-Boadu is a distinguished graduate of the Kwame Nkrumah University of Science and Technology (KNUST), where he earned a Bachelor of Science degree in Petrochemical Engineering with First Class Honours. He excelled academically, starting with a cumulative weighted average (CWA) of 88.11 and graduating with 83.63, making him the top-performing student in the Department of Chemical and Mechanical Engineering. His exceptional academic achievements earned him multiple accolades, including the prestigious Excellent Student Award for maintaining a CWA above 75 throughout his studies and the Overall Best Student in Petrochemical Engineering award for his second, third, and final years. \n\n' +
+    bio: 'Nana Kwadwo Otieku-Boadu is a distinguished graduate of the Kwame Nkrumah University of Science and Technology (KNUST), where he earned a Bachelor of Science degree in Petrochemical Engineering with First Class Honours. He excelled academically, beggining with a cumulative weighted average (CWA) of 88.11 and graduating with 83.63, making him the top-performing student in the Department of Chemical and Mechanical Engineering. His exceptional academic achievements earned him multiple accolades, including the prestigious Excellent Student Award for maintaining a CWA above 75 throughout his studies, as well as the Overall Best Student in Petrochemical Engineering award for his second, third, and final years. \n\n' +
 
       'During his undergraduate studies, Nana demonstrated exceptional leadership and service. He served as the Head of the Students’ Academic Board for the Association of Petrochemical Engineering Students in his third year and contributed as a member of the Students’ Academic Committee in his second and final years. In addition to his academic commitments, he was an active member of the Phanerosis Prayer Network, serving faithfully from his first year through to graduation. \n\n' +
 
       'Nana\'s ability to balance academic excellence with Christian responsibilities is a testament to his discipline and dedication, a skill he cultivated during his time at Mfantsipim School. As Christian Council Chairman in senior high school, he oversaw the activities of 12 Christian fellowships while maintaining top academic performance in his class. \n\n' +
 
-      'Currently, Nana is a Teaching Assistant in the Department of Chemical Engineering at KNUST, where he is advancing his research interests in pinch and exergy analysis under the guidance of his supervisor. His passion for education extends beyond the classroom, as he has co-pioneered the development of academic support videos to enhance learning for students in his department.\n\n' +
+      'Currently, Nana is a Teaching Assistant in the Department of Chemical Engineering at KNUST, where he is advancing his research interests in pinch and exergy analyses under the guidance of his supervisor. His passion for education extends beyond the classroom, as he has co-pioneered the development of academic support videos to enhance learning for students in his department.\n\n' +
 
       'An avid reader and lifelong learner, Nana\'s academic and professional focus revolves around deepening his understanding of chemical engineering principles. His commitment to excellence and service continues to inspire those around him.',
     social: {
