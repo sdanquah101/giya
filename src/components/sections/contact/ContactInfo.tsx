@@ -10,7 +10,7 @@ interface ContactItem {
 export const contactInfo: ContactItem[] = [
   {
     icon: Phone,
-    text: '+233 558 078 078',
+    text: '+233 558 078 078/ +233 552 835 433',
     href: 'tel:+233558078078'
   },
   {
@@ -21,16 +21,11 @@ export const contactInfo: ContactItem[] = [
   {
     icon: Facebook,
     text: 'Follow us on Facebook',
-    href: 'https://web.facebook.com/Phanerosisprayernetworkint'
+    href: 'https://web.facebook.com/giyaghana'
   },
   {
     icon: Instagram,
     text: 'Follow us on Instagram',
-    href: 'https://www.instagram.com/phanet_official/'
-  },
-  {
-    icon: Youtube,
-    text: 'Subscribe on YouTube',
-    href: 'https://www.youtube.com/c/PhanerosisPrayerNetworkInternationalPHANET'
+    href: 'https://www.instagram.com/giyaghana/'
   }
 ];
