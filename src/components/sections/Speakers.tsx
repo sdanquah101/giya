@@ -5,7 +5,7 @@ import { SpeakerCard } from './SpeakerCard';
 const speakers = [
   {
     name: 'Dr. Godfred B. Nkansah',
-    role: 'Founder',
+    role: 'Founding Director',
     institution: 'Phanerosis Network International',
     image: 'https://pbs.twimg.com/profile_images/1392217527934234628/_GQnTNQE_400x400.jpg',
     bio: `Dr. Godfred Bonnah Nkansah is a distinguished political scientist, development advocate, intercessory leader, and accomplished author with over 14 years of experience in the NGO sector. He is the founder of Phanerosis Network International, an intercessory ministry with branches in Ghana and across the diaspora.
@@ -35,7 +35,7 @@ His notable works include:
     role: 'Branch Operations Manager',
     institution: 'Consolidated Bank Ghana',
     image: 'https://drive.google.com/thumbnail?id=19UiZZbqTZOZrqQqbI_OjsS9KrzjKG6fu&sz=w1000',
-    bio: `Eric Obeng Kwakye is a seasoned professional with over 10 years of expertise in operations management, leadership, and consulting. Currently, he serves as the Branch Operations Manager at CBG, Co-founder and Executive Director of PHANET; Lead Consultant at T.R.I.P. Africa; and Lead Ideator for GIYA+C (God is Interested In your Academics & Career).\n\n' 
+    bio: `Eric Obeng Kwakye is a seasoned professional with over 10 years of expertise in operations management, leadership, and consulting. Currently, he serves as the Branch Operations Manager at CBG, Co-founder and Executive Director of PHANET; Lead Consultant at T.R.I.P. Africa; and Lead Ideator for GIYA+C (God is Interested In your Academics & Career)\n\n' 
     'With a proven track record of success, Eric Obeng Kwakye is dedicated to driving growth, innovation, and positive impact across various industries.`,
     social: {
       linkedin: '#',
