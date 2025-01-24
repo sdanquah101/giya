@@ -1,5 +1,5 @@
 import { IconType } from 'lucide-react';
-import { Phone, Mail, WhatsApp, Instagram, Youtube } from 'lucide-react';
+import { Phone, Mail, Facebook, Instagram, Youtube } from 'lucide-react';
 
 interface ContactItem {
   icon: IconType;
@@ -19,7 +19,7 @@ export const contactInfo: ContactItem[] = [
     href: 'mailto:godisinterestedinyouracademics@gmail.com'
   },
   {
-    icon: WhatsApp,
+    icon: Facebook,
     text: 'Follow us on WhatsApp',
     href: 'https://bit.ly/giyaghanawhatsapp'
   },
