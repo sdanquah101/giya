@@ -19,9 +19,9 @@ export const contactInfo: ContactItem[] = [
     href: 'mailto:giyaconference@gmail.com'
   },
   {
-    icon: Facebook,
-    text: 'Follow us on Facebook',
-    href: 'https://web.facebook.com/giyaghana'
+    icon: WhatsApp,
+    text: 'Follow us on WhatsApp',
+    href: 'https://bit.ly/giyaghanawhatsapp'
   },
   {
     icon: Instagram,
