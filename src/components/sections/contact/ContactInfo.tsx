@@ -15,8 +15,8 @@ export const contactInfo: ContactItem[] = [
   },
   {
     icon: Mail,
-    text: 'giyaconference@gmail.com',
-    href: 'mailto:giyaconference@gmail.com'
+    text: 'godisinterestedinyouracademics@gmail.com',
+    href: 'mailto:godisinterestedinyouracademics@gmail.com'
   },
   {
     icon: WhatsApp,
