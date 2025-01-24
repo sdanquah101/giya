@@ -1,5 +1,5 @@
 import { IconType } from 'lucide-react';
-import { Phone, Mail, Facebook, Instagram, Youtube } from 'lucide-react';
+import { Phone, Mail, WhatsApp, Instagram, Youtube } from 'lucide-react';
 
 interface ContactItem {
   icon: IconType;
