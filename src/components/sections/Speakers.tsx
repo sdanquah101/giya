@@ -142,6 +142,20 @@ Her dedication to this field led her to participate in the ETH Robotics Student 
       twitter: '#',
       website: '#'
     }
+  },
+   {
+    name: 'Theodora Obeng Nyarko',
+    role: 'Web Development Tutor',
+    institution: 'MEST Africa',
+    image: 'https://drive.google.com/thumbnail?id=1k7jt8eqSfkzCmrHEiIrYi-y9WLmxZNxx&sz=w1000',
+    bio: 'Theodora Gyambrah is a distinguished software engineer with a remarkable journey from graduating with First-Class Honors in Biomedical Engineering to excelling in the tech industry. While pursuing her degree, she actively balanced academics with leadership, serving as the Media/Publicity Head for Phanet KNUST for two consecutive years, all while engaging in software engineering internships and courses.\n\n' +
+
+      'Currently, Theodora is a Web Development Instructor at MEST Africa, where she mentors and equips aspiring tech professionals with both technical expertise and essential soft skills for career success. She has authored insightful articles and spoken at various tech events, sharing her knowledge with diverse audiences, from beginners to seasoned professionals.',
+    social: {
+      linkedin: '#',
+      twitter: '#',
+      website: '#'
+    }
   }
 ];
 
