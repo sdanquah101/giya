@@ -18,7 +18,7 @@ const faqs = [
   },
   {
     question: 'What should I bring?',
-    answer: 'Please bring a notebook, pen, and your Bible. You may also want to bring a water bottle and any personal items you might need.'
+    answer: 'Please bring a notebook and your pen. You may also want to bring a water bottle and any personal items you might need.'
   },
   {
     question: 'Will there be networking opportunities?',
@@ -31,10 +31,6 @@ const faqs = [
   {
     question: 'What is the dress code?',
     answer: 'Smart casual attire is recommended. Please dress comfortably but professionally.'
-  },
-  {
-    question: 'Will there be certificates?',
-    answer: 'Yes, certificates of participation will be provided to all registered attendees who complete the conference.'
   },
   {
     question: 'Can I invite friends?',
