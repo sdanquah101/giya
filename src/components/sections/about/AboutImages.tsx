@@ -2,7 +2,7 @@ import { motion } from 'framer-motion';
 
 const images = [
   'https://drive.google.com/thumbnail?id=19Akf_28oxNFSyp1x40paUSJiINL7RBlv&sz=w1000',
-  'https://drive.google.com/thumbnail?id=1FtldqdXiZIUXvWgVBpZLdm6I2ZsXMVGd&sz=w1000',
+  'https://drive.google.com/thumbnail?id=1jxHlE3MDD9O2DGAebJmNQ5bU3x_rTU7o&sz=w1000',
   'https://drive.google.com/thumbnail?id=1ea7WlAwgVOfFxN1q3onhxSh4gb6WSpWM&sz=w1000',
   'https://drive.google.com/thumbnail?id=1W7XuFwCNhCMFFuylkHV4sWo0Yk8l9mZU&sz=w1000',
 ];
